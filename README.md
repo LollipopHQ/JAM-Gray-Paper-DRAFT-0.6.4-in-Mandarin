@@ -12,6 +12,8 @@ JAM introduces a decentralized hybrid system that combines smart-contract functi
 
 With this translation, we hope to reach a wider audience, enabling developers, researchers, and blockchain enthusiasts in the Chinese-speaking world to explore and contribute to the evolution of JAM. We look forward to discussions, feedback, and new ideas that can further enhance the potential of this technology.
 
+***
+
 Lollipop团队欣然宣布，由创始人兼CEO Qinwen Wang翻译的JAM灰皮书论文草案0.6.4的中文版现已发布。
 
 我们发布JAM中文版，旨在让这一Web3领域的创新举措更加贴近中文社区，推动Polkadot生态系统实现更广泛的参与和蓬勃发展。

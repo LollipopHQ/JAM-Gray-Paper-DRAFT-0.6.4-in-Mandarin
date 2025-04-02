@@ -1,5 +1,4 @@
 # JAM Gray Paper DRAFT 0.6.4 release in Mandarin
-Chinese translation of the JAM Gray Paper DRAFT 0.6.4, translated by Qinwen Wang, Founder &amp; CEO of Lollipop.
 
 The Lollipop team is pleased to present the Chinese translation of JAM Gray Paper.
 

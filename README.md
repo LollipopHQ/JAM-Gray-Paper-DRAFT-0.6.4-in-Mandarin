@@ -12,3 +12,16 @@ JAM introduces a decentralized hybrid system that combines smart-contract functi
 
 With this translation, we hope to reach a wider audience, enabling developers, researchers, and blockchain enthusiasts in the Chinese-speaking world to explore and contribute to the evolution of JAM. We look forward to discussions, feedback, and new ideas that can further enhance the potential of this technology.
 
+Lollipop团队欣然宣布，由创始人兼CEO Qinwen Wang翻译的JAM灰皮书论文草案0.6.4的中文版现已发布。
+
+我们发布JAM中文版，旨在让这一Web3领域的创新举措更加贴近中文社区，推动Polkadot生态系统实现更广泛的参与和蓬勃发展。
+
+JAM的一大核心突破——PolkaVM与RISC-V芯片架构的完美兼容，恰与中国在RISC-V开源硬件领域的战略布局及未来发展蓝图不谋而合。尽管中国互联网企业的联盟区块链多依赖于以太坊联合创始人Gavin Wood所开创的以太坊网络开源版，但JAM灰皮书中文版却成为了连接两者的关键桥梁。在Gavin Wood发布以太坊黄皮书十年之际，他的灰皮书携带着崭新的愿景与方向横空出世。这座语言之桥，将中国众多才华横溢的青年才俊与全球最前沿的工具紧密相连，让他们跨越语言的界限，得以借助世界顶尖资源，在开源创新的道路上勇往直前。
+
+这份长达112页的详尽文档为JAM协议提供了深入且正式的定义——该协议旨在整合波卡（Polkadot）和以太坊（Ethereum）的元素，以构建一个强大、可扩展且无许可的智能合约环境。
+
+JAM推出了去中心化混合系统，融合智能合约与Polkadot架构。该系统独具内核/链上二元特性，兼顾安全性与可扩展性。协议允许用户将代码部署为服务，使用核心时间作为计算资源，类似以太坊的gas模型。
+
+通过此次翻译，我们旨在拓宽受众范围，让中文圈的开发者、研究者及区块链爱好者都能深入了解JAM，并为其发展添砖加瓦。我们期盼通过交流讨论、获取反馈及激发新思维，共同挖掘这项技术的无限潜能。
+
+Lollipop正在JAM上构建加密原生执行的未来，提供统一环境——无需桥梁的跨链、无需侧链的扩展、从web2到web3的无缝迁移。
